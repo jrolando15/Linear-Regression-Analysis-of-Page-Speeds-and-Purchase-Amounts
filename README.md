@@ -52,7 +52,7 @@ scatter(pageSpeeds, purchaseAmount)
 show()
 ```
 
-- Performing linear Regression
+# Performing linear Regression
 ```python
 from scipy import stats
 
@@ -61,7 +61,7 @@ r_squared = r_value ** 2
 print(f"R-squared: {r_squared}")
 ```
 
-- Plotting Results
+# Plotting Results
 ```python
 import matplotlib.pyplot as plt
 
