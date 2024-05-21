@@ -40,7 +40,7 @@ linear-regression-page-speeds/
 ```
 
 ## Examples
-- Generating Syntethic Data
+# Generating Syntethic Data
 ```python
 import numpy as np
 from pylab import *
